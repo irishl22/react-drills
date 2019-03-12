@@ -11,7 +11,7 @@ class App extends Component {
   }
 
   handleChange(val) {
-    this.setState({ text: val})
+    this.setState({ text: val })
   }
 
   
